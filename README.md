@@ -1,6 +1,6 @@
 # Using-Python-in-Finance
 
-### This repository comprises of different techniques, methodologies and practices used within finance organisations making use of python for analysing finance data, majorly in the stock market. 
+### This repository comprises of different techniques, methodologies and practices used majorly by finance organisations making use of python for analysing finance data, especially in the stock market.
 #### This repository would be updated from time to time to meet up with the requirements of the finance market. 
  
  ______________________________________________________________________________________________________________________________________________________________________
